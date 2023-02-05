@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AbhishekChauhan9036/Kickstarting-Node-Js/issues"
   },
-  "homepage": "https://github.com/AbhishekChauhan9036/Kickstarting-Node-Js#readme"
+  "homepage": "https://github.com/AbhishekChauhan9036/Kickstarting-Node-Js#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
