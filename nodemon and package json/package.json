@@ -1,0 +1,20 @@
+{
+  "name": "nodemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekChauhan9036/Kickstarting-Node-Js.git"
+  },
+  "author": "Abhishek Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekChauhan9036/Kickstarting-Node-Js/issues"
+  },
+  "homepage": "https://github.com/AbhishekChauhan9036/Kickstarting-Node-Js#readme"
+}
